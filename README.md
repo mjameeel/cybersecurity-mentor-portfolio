@@ -42,10 +42,15 @@ The focus of this repository is not volume, but **clarity, ethics, and real-worl
 
 cybersecurity-mentor-portfolio/
 ├── reconnaissance/
+
 ├── enumeration/
+
 ├── network-analysis/
+
 ├── web-security/
+
 ├── secure-coding/
+
 └── resources/
 
 
