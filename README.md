@@ -41,6 +41,7 @@ The focus of this repository is not volume, but **clarity, ethics, and real-worl
 ## Repository Structure
 
 cybersecurity-mentor-portfolio/
+
 ├── reconnaissance/
 
 ├── enumeration/
